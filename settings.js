@@ -7,9 +7,9 @@ global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴�
 global.author = "DR REUBY"  
 global.packname = "DR✯REUBY✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.waterMark = "×͜× DR ✘ Reuby™ ✓" // Your own watermark 
+global.headerText = "DR REUBY" // text for header of menu         
+global.DocumentTitle = "DRREUBY⚔️" 
 
 
 global.ownername = "𝕻R REUBY"   // Owner name //        
@@ -29,7 +29,7 @@ global.email = "epbpain@gmail.com" // put your email here
 global.premium = ['916900******','917355******']  // available soon
 global.sudo = ['916900******','917355******']  // Co - Owners //
 
-global.prefa = ['-','🥵','🔥']
+global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
@@ -58,14 +58,14 @@ tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚'
 
 
 global.mess = {
-    success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
-    admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑", // I used "\n" for change the line 
+    success: 'Work done by DR REUBY❤️',
+    admin: "DR REUBY warns!\This command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑", // I used "\n" for change the line 
     botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
     owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
-    wait: "I'm progressing your command baby❤️, Please wait......",
+    wait: "DR REUBY is processing your command ❤️, Please wait......",
     linkm: 'Abey where is the link...?',
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
     sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
